@@ -1,0 +1,2 @@
+if(100>90)
+echo="100 is greater"
